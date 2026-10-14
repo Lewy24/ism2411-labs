@@ -1,7 +1,7 @@
 # ism2411-labs
 # ISM2411 — Python for Business
 
-**Name:** Your Name Here
+**Name:** Lewis Williams
 
 **Semester:** Fall 2026
 
